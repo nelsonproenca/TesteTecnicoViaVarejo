@@ -1,0 +1,6 @@
+G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.ConsoleApp.Dll\bin\Debug\TesteTecnico.AmigosProximos.Console.Dll.dll
+G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.ConsoleApp.Dll\bin\Debug\TesteTecnico.AmigosProximos.Console.Dll.pdb
+G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.ConsoleApp.Dll\obj\Debug\TesteTecnico.AmigosProximos.ConsoleApp.Dll.csprojResolveAssemblyReference.cache
+G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.ConsoleApp.Dll\obj\Debug\TesteTecnico.AmigosProximos.ConsoleApp.Dll.csproj.CoreCompileInputs.cache
+G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.ConsoleApp.Dll\obj\Debug\TesteTecnico.AmigosProximos.Console.Dll.dll
+G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.ConsoleApp.Dll\obj\Debug\TesteTecnico.AmigosProximos.Console.Dll.pdb

@@ -4,3 +4,12 @@ G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.Console\obj\x
 G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.Console\obj\x86\Debug\TesteTecnico.AmigosProximos.ConsoleApp.csproj.CoreCompileInputs.cache
 G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.Console\obj\x86\Debug\TesteTecnico.AmigosProximos.ConsoleApp.exe
 G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.Console\obj\x86\Debug\TesteTecnico.AmigosProximos.ConsoleApp.pdb
+G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.ConsoleApp\bin\Debug\TesteTecnico.AmigosProximos.ConsoleApp.exe.config
+G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.ConsoleApp\bin\Debug\TesteTecnico.AmigosProximos.ConsoleApp.exe
+G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.ConsoleApp\bin\Debug\TesteTecnico.AmigosProximos.ConsoleApp.pdb
+G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.ConsoleApp\bin\Debug\TesteTecnico.AmigosProximos.Console.Dll.dll
+G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.ConsoleApp\bin\Debug\TesteTecnico.AmigosProximos.Console.Dll.pdb
+G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.ConsoleApp\obj\x86\Debug\TesteTecnico.AmigosProximos.ConsoleApp.csprojResolveAssemblyReference.cache
+G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.ConsoleApp\obj\x86\Debug\TesteTecnico.AmigosProximos.ConsoleApp.csproj.CoreCompileInputs.cache
+G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.ConsoleApp\obj\x86\Debug\TesteTecnico.AmigosProximos.ConsoleApp.exe
+G:\TesteTecnico.AmigosProximos.Console\TesteTecnico.AmigosProximos.ConsoleApp\obj\x86\Debug\TesteTecnico.AmigosProximos.ConsoleApp.pdb

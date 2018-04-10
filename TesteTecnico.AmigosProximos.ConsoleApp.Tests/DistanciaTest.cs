@@ -24,14 +24,14 @@ namespace TesteTecnico.AmigosProximos.Console.Tests
 
             Amigo amigoBusca = new Amigo()
             {
-                Id = 1,
-                Nome = "Breno",
-                Visitando = true,
+                Id = 2,
+                Nome = "Walter",
+                Visitando = false,
                 Coordenadas = new CoordenadasAmigo()
                 {
-                    IdAmigo = 1,
-                    Latitude = -23.6914,
-                    Longitude = -46.5646
+                    IdAmigo = 2,
+                    Latitude = -21.9736,
+                    Longitude = -44.6042
                 }
             };
 
